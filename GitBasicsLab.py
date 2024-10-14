@@ -8,4 +8,6 @@ print(greet("Student"))
 
 print("This line was added directly on GitHub.")
 
+print("Another line added on GitHub.")
+
 print("This line was added locally.")
