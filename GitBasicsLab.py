@@ -11,3 +11,6 @@ print("This line was added directly on GitHub.")
 print("Another line added on GitHub.")
 
 print("This line was added locally.")
+
+def feature_a():
+    return "This is feature A"
